@@ -40,6 +40,8 @@ A partir de dados públicos hospedados no GitHub, o notebook realiza:
 
 - Pandas
 
+- numpy
+
 - Matplotlib
 
 ## Autor
